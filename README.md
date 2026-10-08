@@ -6,7 +6,7 @@
     <img src="https://lanyard.cnrad.dev/api/694051043998171198?theme=dark&bg=00000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord presence">
   </a>
 </p>
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Stats</h3>
 <p align="center">
   <a href="https://github.com/aqeu">
     <img width="660" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqeu&theme=transparent" alt="GitHub profile summary">
