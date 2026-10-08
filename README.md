@@ -1,13 +1,13 @@
 <h2 align="center" id="welcome">Bio</h2>
 <p align="center">
-  <img src="https://count.getloli.com/@aqeu?theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0" alt="Views">
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23ffffff&center=true&vCenter=true&lines=hi+im+riri;a+15+yo+high+school+student;from+novosibirsk%2C+russia" alt="Typing intro">
   <br>
   <a href="https://discord.com/users/694051043998171198">
     <img src="https://lanyard.cnrad.dev/api/694051043998171198?theme=dark&bg=00000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord presence">
   </a>
+<p align="center">
+  <img src="https://count.getloli.com/@aqeu?theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0" alt="Views">
+</p>
 </p>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
